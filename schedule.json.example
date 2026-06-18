@@ -1,0 +1,22 @@
+[
+  {
+    "file": "videos/ornek-video-1.mp4",
+    "caption": "İlk otomatik paylaşım denemesi #fyp",
+    "publish_at": "2026-06-18 21:30",
+    "privacy_level": "SELF_ONLY",
+    "disable_comment": false,
+    "disable_duet": false,
+    "disable_stitch": false,
+    "is_aigc": false
+  },
+  {
+    "file": "videos/ornek-video-2.mp4",
+    "caption": "İkinci video açıklaması #tiktok",
+    "publish_at": "2026-06-19 12:00",
+    "privacy_level": "SELF_ONLY",
+    "disable_comment": true,
+    "disable_duet": true,
+    "disable_stitch": true,
+    "is_aigc": false
+  }
+]
